@@ -1,3 +1,0 @@
-{
-  "src/**/*.{ts,tsx}": ["yarn format", "tslint --format stylish --project tsconfig.json", "git add"]
-}
